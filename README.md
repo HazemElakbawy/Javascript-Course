@@ -10,6 +10,8 @@ Section 1 : Introduction
 
 Section 2 : Basics: Variables, Data Types, Operators & Functions
 
+... will be added later 😁
+
 ## 🔗 Course Link :-
 
 [Javascript-The Complete Guide (Beginner + Advanced)](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/ "Happy Coding")
