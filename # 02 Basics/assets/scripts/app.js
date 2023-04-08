@@ -3,7 +3,7 @@ let currentResult = defaultResult;
 let arr = [];
 
 function getUserInput() {
-  return parseInt(userInput.value);
+  return parseInt(usrInput.value);
 }
 
 function currentOperation(operator, firstOperand, secondOperand) {
